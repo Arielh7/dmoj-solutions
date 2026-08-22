@@ -1,4 +1,4 @@
-let cadena = "asfsafsadsaa";
+let cadena = prompt();
 cadena = cadena.split(" ");
 let masLarga = 0;
 let count = 0;
@@ -12,7 +12,7 @@ for (let i = 0; i < cadena.length; i++) {
   }
 }
 
-print(masLarga);
+console.log(masLarga);
 
 //Tuve que traducir a Python porque en js daba problema el juez xd pero es la misma logica que el codigo js
 // cadena = input()
