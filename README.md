@@ -14,16 +14,16 @@ A comprehensive collection of my solutions to competitive programming problems o
 
 [![DMOJ Cuba](https://img.shields.io/badge/DMOJ-Cuba-red?logo=dmoj&logoColor=white)](https://dmoj.uclv.edu.cu/)
 
-- **Score**: **1,325** points
-- **Problems Solved**: **22**
+- **Score**: **1361** points
+- **Problems Solved**: **23**
 - **Primary Language**: JavaScript, Python
 
 ### 🌐 DMOJ International
 
 [![DMOJ International](https://img.shields.io/badge/DMOJ-International-blue?logo=dmoj&logoColor=white)](https://dmoj.ca/)
 
-- **Score**: 10
-- **Problems Solved**: 3
+- **Score**: 21
+- **Problems Solved**: 7
 - **Primary Language**: JavaScript, Python
 
 ---
