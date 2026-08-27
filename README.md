@@ -2,12 +2,48 @@
 
 ![DMOJ Profile](https://img.shields.io/badge/DMOJ-Profile-blue?logo=dmoj&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=black)
-![Score](https://img.shields.io/badge/Score-1325-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 
-Repositorio de soluciones para problemas de [DMOJ](https://dmoj.ca/), una plataforma de jueces en línea para programación competitiva. Aquí almaceno mis códigos de respuesta organizados por problemas.
+A comprehensive collection of my solutions to competitive programming problems on [DMOJ](https://dmoj.ca/), an online judge platform. This repository serves as my personal archive of accepted submissions, organized for easy reference and continuous improvement.
 
-## Estado actual
+---
 
-- **Puntaje total**: **1325** puntos
-- **Lenguaje principal**: JavaScript
-- **Problemas resueltos**: _22_
+## Current Status
+
+### 🇨🇺 DMOJ Cuba (National Version)
+
+[![DMOJ Cuba](https://img.shields.io/badge/DMOJ-Cuba-red?logo=dmoj&logoColor=white)](https://dmoj.uclv.edu.cu/)
+
+- **Score**: **1,325** points
+- **Problems Solved**: **22**
+- **Primary Language**: JavaScript, Python
+
+### 🌐 DMOJ International
+
+[![DMOJ International](https://img.shields.io/badge/DMOJ-International-blue?logo=dmoj&logoColor=white)](https://dmoj.ca/)
+
+- **Score**: 10
+- **Problems Solved**: 3
+- **Primary Language**: JavaScript, Python
+
+---
+
+## Goals
+
+- Maintain and organize solutions from DMOJ Cuba
+- Transition to solving problems on DMOJ International
+- Improve problem-solving skills and algorithmic thinking
+- Build a personal reference library of optimized solutions
+
+---
+
+## Notes
+
+- All solutions are my own work and have been accepted by the respective judges.
+- This repository is a work in progress as I expand to the international platform.
+
+---
+
+- **DMOJ Cuba Profile**: Arielh7
+- **DMOJ International Profile**: Arielin
+- **GitHub**: Arielh7
