@@ -15,8 +15,8 @@ A comprehensive collection of my solutions to competitive programming problems o
 
 [![DMOJ Cuba](https://img.shields.io/badge/DMOJ-Cuba-red?logo=dmoj&logoColor=white)](https://dmoj.uclv.edu.cu/)
 
-- **Score**: **1671** points
-- **Problems Solved**: **34**
+- **Score**: **1756** points
+- **Problems Solved**: **39**
 - **Primary Language**: JavaScript, Python
 - **Secondary Language**: C++, C
 
